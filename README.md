@@ -1,2 +1,3 @@
-# practicum.by.yandex
+# PbY
+
 Practicum's Project
