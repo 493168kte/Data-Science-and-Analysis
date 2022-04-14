@@ -1,3 +1,1 @@
-# PbY
 
-Practicum's Project
